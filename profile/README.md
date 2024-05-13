@@ -7,10 +7,10 @@
 <hr />
 
 ### Active Developer Members
-| Name                             | Title           | E-mail                  | GitHub                                  | Discord     |
-|----------------------------------|-----------------|-------------------------|-----------------------------------------|-------------|
-| Awoken                           | Community Lead  | awoken@develofy.org     | [@iawoken](https://github.com/iawoken)  | awokenshu   |
-| İhsan Baki Doğan                 | Developer       | ibidi@develofy.org      | [@ibidi](https://github.com/ibidi)      | ibidi   |
+| Name                             | Title           | E-mail                  | GitHub                                      | Discord     |
+|----------------------------------|-----------------|-------------------------|---------------------------------------------|-------------|
+| Awoken                           | Community Lead  | awoken@develofy.org     | [@iawoken](https://github.com/iawoken)      | awokenshu   |
+| Mehmet Deniz Kumcu               | Developer Lead  | deniz@dikholding.com    | [@devmdeniz](https://github.com/devmdeniz)  | dev.mdeniz  |
 
 ### Reach Us
 <p>Join us on <a href="https://cybersafe.org/discord">Discord</a> if you got any problems or questions about our freaky projects, and we got nothing to do here.</p>
