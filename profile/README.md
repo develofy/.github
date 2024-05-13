@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1176572756461113486/1226875016713601075/logo.jpg?ex=66265b66&is=6613e666&hm=5bb6efe26f953f08de8a1c9ce1999f030d0e7b48035fa4439a24d7135b2f5925&" width="135">
+    <img src="https://cdn.discordapp.com/attachments/1176572756461113486/1234205363033608263/White_Black_M_Letter_Design_Business_Identity_for_Digital_Design_Company_Logo-3.png?ex=66430090&is=6641af10&hm=6d6ee7fd99d16deea74d274c905ed43f557aebe0c33c82dc0471014e10942501" width="135">
     <h2>Develofy</h2>
     <p>Develofy is an enthusiastic online community where passion and innovation intersect. We are developers, creators, and dreamers dedicated to building a diverse and dynamic environment for our members. At Develofy, we specialize in spawning random yet impactful projects on GitHub, while also spreading our creative wings on platforms like TikTok and YouTube.</p>
 </div>
